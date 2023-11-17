@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Quicksand, sans-serif;
+
+}
+html{scroll-behavior:smooth}
+#navBar{
+	font-size: 1.1rem;
+}
+svg{
+	height: 3rem;
+	padding: 2px;
+}
