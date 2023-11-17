@@ -6,7 +6,7 @@
 
 }
 #landing{
-	background-image: url(https://img.freepik.com/premium-vector/blue-abstract-background-design-blue-corporate-background-use-business-corporate-vector_676228-184.jpg);
+	background-image: url('./images/bg.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
