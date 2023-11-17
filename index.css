@@ -14,7 +14,7 @@ svg{
 	padding: 2px;
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 800px) {
   section{
 	height: 100vh;
 }
