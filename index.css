@@ -5,6 +5,11 @@
 	font-family: Quicksand, sans-serif;
 
 }
+#landing{
+	background-image: url(https://img.freepik.com/premium-vector/blue-abstract-background-design-blue-corporate-background-use-business-corporate-vector_676228-184.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 html{scroll-behavior:smooth}
 #navBar{
 	font-size: 1.1rem;
