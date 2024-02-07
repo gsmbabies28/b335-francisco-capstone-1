@@ -5,19 +5,67 @@
 	font-family: Quicksand, sans-serif;
 
 }
+
 #landing{
-	background-image: url('./images/bg.jpg');
+	background-image: url('./images/bg-3.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#landing h4{
+	font-family: "Protest Riot", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#landing h3{
+	font-family: "Protest Riot", sans-serif;
+	font-weight: 500;
+}
+
 html{scroll-behavior:smooth}
 #navBar{
 	font-size: 1.1rem;
 }
+
+#icons :hover{
+
+}
+
+h1{
+	font-family: "Protest Riot", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#about{
+	height: auto;
+	background-repeat: no-repeat;
+	background-size: cover;
+	object-fit: fill;
+}
+
+#about p{
+	font-size: 1.4rem;
+}
+
+#about h5 {
+	font-family: Quicksand, sans-serif;
+	font-weight: thin;
+	font-size: x-large;
+}
+
+#tools h2{
+	font-family: open-sans;
+	font-weight: bold;
+}
+
 svg{
-	height: 3rem;
+	height: 2.4rem;
 	padding: 2px;
 }
+
+
 
 footer{
 	border-top: 1px solid gray;
