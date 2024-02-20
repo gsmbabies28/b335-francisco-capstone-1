@@ -6,10 +6,27 @@
 
 }
 
+nav{
+	max-height: 100px;
+}
+
+nav img {
+	background-size: contain;
+}
+
+nav a:hover {
+	color: #a6a0a0;
+	text-decoration: underline;
+}
+
 #landing{
 	background-image: url('./images/bg-3.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+#landing a:hover {
+	box-shadow: 5px 5px 11px 1px #a6a0a0;
 }
 
 #landing h4{
@@ -76,3 +93,5 @@ footer{
 	height: 100vh;
 }
 }
+
+
